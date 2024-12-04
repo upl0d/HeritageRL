@@ -1,32 +1,52 @@
-🌟 HeritageRL 🌟
-🎮 HeritageRL is a roguelike game project built with Python 🐍 and libtcod. It’s my first step into the world of programming and game development, serving as a personal learning journey to explore the fundamentals of game mechanics and design.
+# 🌟 **HeritageRL** 🌟
 
-📖 About the Project
-HeritageRL is a work in progress 🚧 and is designed to help me learn the basics of:
+**HeritageRL** is a **roguelike game** project developed with **Python** 🐍 and **libtcod**.  
+This is my first step into programming and game development, created as part of my learning journey.
 
-🗺️ Procedural Map Generation
-🎲 Turn-Based Mechanics
-🛠️ Core Systems: Entity management, interaction, and basic game loops
-⚠️ Note: The game is not yet playable but will be updated as development progresses.
+---
 
-🚀 Current Progress
-✅ Implemented Features:
+## 📝 About the Project
 
-Basic entity movement
-Early game loop foundation
-🔄 Work in Progress:
+HeritageRL is an experimental roguelike game that focuses on learning key concepts in game development, including:
 
-Procedural map generation
-Combat mechanics
-Inventory systems
-📅 Roadmap
-Here's what's planned for future updates:
+- 🗺️ **Procedural Map Generation**
+- 🎲 **Turn-Based Mechanics**
+- 🛠️ **Core Systems**: Entity management, interactions, and a basic game loop
 
- Complete procedural map generation 🗺️
- Add combat mechanics ⚔️
- Introduce inventory and item systems 🎒
- Create a playable demo 🎮
-🙌 Acknowledgements
-This project is inspired by the roguelike genre and serves as my introduction to Python programming and game development. Special thanks to the libtcod community for their awesome library! 💡
+> ⚠️ **Note:** The game is in early development and is **not playable yet**. Updates will follow as progress is made.
 
-🌟 Stay Tuned for Updates!
+---
+
+## 🚀 Current Progress
+
+### ✅ Completed Features:
+- Basic entity movement
+- Early game loop implementation
+
+### 🔄 In Progress:
+- Procedural map generation
+- Combat mechanics
+- Inventory and item systems
+
+---
+
+## 📅 Roadmap
+
+### 🛠️ Upcoming Features:
+- [ ] Complete **procedural map generation** 🗺️
+- [ ] Add **combat mechanics** ⚔️
+- [ ] Introduce **inventory and item systems** 🎒
+- [ ] Build a **fully playable demo** 🎮
+
+---
+
+## 💡 Acknowledgements
+
+This project is inspired by the roguelike genre and serves as my introduction to programming with **Python** and **libtcod**.  
+Special thanks to the developers of **libtcod** for providing a fantastic toolset for roguelike development! 🙌
+
+---
+
+## 🔗 Stay Connected
+
+Stay tuned for updates as I continue to develop **HeritageRL**! 🚀
